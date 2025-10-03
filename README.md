@@ -63,24 +63,24 @@
 
 ## 3. 시스템 구성도
 ### 3-1. S/W 아키텍처
-![SW 아키텍처](<img width="1040" height="537" alt="image" src="https://github.com/user-attachments/assets/07d7d6b4-3419-40e0-97b2-314696d8007f" />
+(<img width="1040" height="537" alt="image" src="https://github.com/user-attachments/assets/07d7d6b4-3419-40e0-97b2-314696d8007f" />
 )
 
 ### 3-2. H/W 구성도
-![HW 구성도](<img width="797" height="338" alt="image" src="https://github.com/user-attachments/assets/b0e35d72-93a9-4a43-a31b-727bee040943" />
+(<img width="797" height="338" alt="image" src="https://github.com/user-attachments/assets/b0e35d72-93a9-4a43-a31b-727bee040943" />
 )
 <img width="712" height="550" alt="image" src="https://github.com/user-attachments/assets/a1727058-d969-446a-8296-a83875f5e654" />
 <img width="811" height="308" alt="image" src="https://github.com/user-attachments/assets/9858b446-1678-4bff-af09-9659ac600aac" />
 
 
 ### 3-3. 서비스 흐름도
-![서비스 흐름도](<img width="612" height="666" alt="image" src="https://github.com/user-attachments/assets/3eb922e9-9a3e-46f6-947b-eec0f5a23a67" />
+(<img width="612" height="666" alt="image" src="https://github.com/user-attachments/assets/3eb922e9-9a3e-46f6-947b-eec0f5a23a67" />
 )
 
 ---
 
 ## 4. 작품 소개영상
-[![실내 층간 이동 자율주행 배송로봇 소개](https://www.youtube.com/watch?v=7-eT-tHrdZ0)  
+https://www.youtube.com/watch?v=7-eT-tHrdZ0  
 🔗 프로젝트 시연 영상
 
 ---
